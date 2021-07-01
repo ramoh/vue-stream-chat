@@ -101,20 +101,20 @@
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   transition-timing-function: ease-in;
-  background: rgba(240, 240, 240, 0.8);
+  background: rgba(240,240,240,0.8);
 }
 .ld-over-full > .ld,
 .ld-over-full-inverse > .ld {
   position: fixed;
 }
 .ld-over-full > .ld {
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(0,0,0,0.8);
 }
 .ld-over-full:before,
 .ld-over-full-inverse:before {
   z-index: -1;
   position: fixed;
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(255,255,255,0.8);
 }
 .ld-over.running > .ld,
 .ld-over-inverse.running > .ld,
@@ -131,14 +131,14 @@
   display: block;
 }
 .ld-over-inverse > .ld {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255,255,255,0.8);
 }
 .ld-over-inverse:before {
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0,0,0,0.6);
 }
 .ld-over-full-inverse > .ld {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255,255,255,0.8);
 }
 .ld-over-full-inverse:before {
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0,0,0,0.6);
 }
