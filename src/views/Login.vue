@@ -7,7 +7,7 @@
       text-variant="white"
     >
       <p>For more information visit website</p>
-      <b-btn target="_blank" href="https://pusher.com/chatkit">More Info</b-btn>
+      <b-btn target="_blank" href="https://getstream.io/">More Info</b-btn>
     </b-jumbotron>
     <b-container>
       <b-row>
